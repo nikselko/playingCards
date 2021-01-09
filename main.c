@@ -1,9 +1,12 @@
-/*
-Seliverstov Nikita
-488054
-"Poker Face"
-09.01.2021
-*/
+/******************************************************************************
+*                                                                             *
+*   Program : Playing Cards                                                   *
+*                                                                             *
+*                                                                             *
+*   Programmer : Nikita Seliverstov (nikselko)                                *
+*                                                                             *
+*                                                                             *
+******************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
